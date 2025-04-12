@@ -2,8 +2,8 @@
   "url": "https://unifarming.ton",
   "manifest_version": 1,
   "name": "UniFarm",
-  "description": "Фарминг криптовалюты UniFarm - официальное приложение",
-  "icon_url": "https://YOUR_USERNAME.github.io/ton-manifest/logo.png",
-  "termsOfUseUrl": "https://YOUR_USERNAME.github.io/ton-manifest/terms/",
-  "privacyPolicyUrl": "https://YOUR_USERNAME.github.io/ton-manifest/privacy/"
+  "description": "Фарминг криптовалюты UniFarm — официальное приложение",
+  "icon_url": "https://universegames8.github.io/ton-manifest/logo.png",
+  "termsOfUseUrl": "https://universegames8.github.io/ton-manifest/terms/",
+  "privacyPolicyUrl": "https://universegames8.github.io/ton-manifest/privacy/"
 }
